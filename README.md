@@ -17,7 +17,7 @@ I work with a variety of technologies. Here are some of my favorites:
 - **Tools & Platforms**: Git,VSCode, GCP
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mugeskumar3&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mugeskumar3&theme=radical)
 
 ## 📢 Get In Touch
 - Email: mugeskumar3@gmail.com
